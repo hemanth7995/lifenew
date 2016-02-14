@@ -1,0 +1,42 @@
+<rss xmlns:k="http://kinetise.com">
+    <channel>
+        <item>
+            <type><![CDATA[ type ]]></type>
+            <name><![CDATA[ donor name ]]></name>
+        </item>
+        <item>
+            <type><![CDATA[ blood type ]]></type>
+            <name><![CDATA[ a+ ]]></name>
+            <address><![CDATA[ aswanth chennai 515151511 ]]></address>
+        </item>
+        <item>
+            <type><![CDATA[ blood type ]]></type>
+            <name><![CDATA[ O+ ]]></name>
+            <address><![CDATA[kishore chennai 8151848 ]]></address>
+            
+        </item>
+        <item>
+            <type><![CDATA[ blood type ]]></type>
+            <name><![CDATA[ O- ]]></name>
+            <address><![CDATA[ keshav 51584 ]]></address>
+            
+        </item>
+        <item>
+            <type><![CDATA[ blood type ]]></type>
+            <name><![CDATA[ ab- ]]></name>
+            <address><![CDATA[45151515]</address>
+        </item>
+        <item>
+            <type><![CDATA[ blood type ]]></type>
+            <name><![CDATA[ ab+ ]]></name>
+            <address><![CDATA[ karthi 15111111 ]]></address>
+            
+        </item>
+        <item>
+            <type><![CDATA[ blood type ]]></type>
+            <name><![CDATA[ ab+ ]]></name>
+            <address><![CDATA[ jeeva chennai 518484 ]]></address>
+      
+        </item>
+    </channel>
+</rss>

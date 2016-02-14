@@ -1,0 +1,6 @@
+1) the applicatqion created with the ibm bluemix technology kinetise
+2) the application can be used in android mobiles for blood donations eye donations
+3) the application source files are provided just use android development studio for deploying the apk'
+4) the sql database source files are also provided
+5) make changes to the sql database and deploy it back in the app
+6) kinetise technology is used for the mainframe work of the application and ibm cloudant sql application for database interactions
